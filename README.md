@@ -17,3 +17,7 @@ We expect the PySD model to produce the same output as the corresponding Vensim 
 
 ### **Objective:**
 We want to understand **why** the outputs from the PySD and Vensim models do not match, and how we can modify the PySD run to generate the same output as the Vensim calculations.
+
+
+### **What does it lead to?**
+The actual model (which has not been shared), produces quite a different results in the PySD run which is of main concern for my solution
