@@ -20,3 +20,7 @@ We want to understand **why** the outputs from the PySD and Vensim models do not
 
 ### **What does it lead to?**
 The actual model (which has not been shared), produces quite a different results in the PySD run which is of main concern for my solution.
+
+### python code
+read *basic_model_verification.ipynb* file
+
